@@ -1,0 +1,11 @@
+[
+  "Level-00-Floor-Rules/README.md",
+  "Level-01-Core-Architecture/docs/01-the-floor.md",
+  "Level-01-Core-Architecture/docs/02-seven-day-floor.md",
+  "Level-01-Core-Architecture/docs/03-architecture-of-time.md",
+  "Level-01-Core-Architecture/docs/04-ezekiels-blueprint.md",
+  "Level-02-Chronology-Math/data/anchors.json",
+  "Level-02-Chronology-Math/scripts/grid-engine.js",
+  "Level-02-Chronology-Math/scripts/temple-bracket.js",
+  "Level-02-Chronology-Math/scripts/mirror-test.js"
+]
